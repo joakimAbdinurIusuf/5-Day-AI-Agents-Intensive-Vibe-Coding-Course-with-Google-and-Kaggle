@@ -7,6 +7,6 @@ One note on ordering. The first article is a summary of the opening whitepaper f
 
 A summary of the whitepapers, including the first 2025 whitepaper *Introduction to Agents*, written up as articles.
 
-- What are AI Agents?: https://joakimabdinuriusuf.substack.com/p/what-are-ai-agents?r=2q9xxj&utm_campaign=post&utm_medium=web&triedRedirect=true
+- What are AI Agents?: https://joakimabdinuriusuf.substack.com/p/what-are-ai-agents
 - Day 1, *Introduction to Agents & Vibe Coding*: https://joakimabdinuriusuf.substack.com/p/generation-is-solved
 
