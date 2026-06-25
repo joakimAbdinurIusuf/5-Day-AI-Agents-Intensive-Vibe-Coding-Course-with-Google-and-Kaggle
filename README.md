@@ -1,9 +1,12 @@
 # 5-Day-AI-Agents-Intensive-Vibe-Coding-Course-with-Google-and-Kaggle
-In this repo I'm going to share my summaries of the whitepapers in the form of articles, all the agents I build throughout the course, and my solution to the capstone project. I'll update as I learn more.
+This repo is my working record of the 5-Day AI Agents Intensive — the Vibe Coding edition run by Google and Kaggle. The course moves fast: each day pairs a whitepaper with a hands-on codelab, building up from what an agent actually is to how you design, orchestrate, and evaluate one. Rather than let the material wash over me, I'm writing my own summaries of each whitepaper as proper articles, keeping the agents I build along the way, and finishing with my capstone project. I'll keep adding to it as the week goes on and I work through the material.
 
-The first article is actually a summary of the first whitepaper in the 2025 course, as it does a better job explaining what AI Agents are. The rest will mirror this years course.
+One note on ordering. The first article is a summary of the opening whitepaper from the 2025 course rather than this year's, simply because it does a cleaner job of explaining what AI agents are from first principles. Everything after it follows the 2026 syllabus.
 
-## What are AI Agents
-Substack summary: https://joakimabdinuriusuf.substack.com/p/what-are-ai-agents?r=2q9xxj&utm_campaign=post&utm_medium=web&triedRedirect=true
+## Summaries of the Whitepapers
 
-Whitepaper Companion Project: https://www.youtube.com/watch?v=zTxvGzpfF-g&list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE&index=1
+A summary of the whitepapers, including the first 2025 whitepaper *Introduction to Agents*, written up as articles.
+
+- What are AI Agents?: https://joakimabdinuriusuf.substack.com/p/what-are-ai-agents?r=2q9xxj&utm_campaign=post&utm_medium=web&triedRedirect=true
+- Day 1, *Introduction to Agents & Vibe Coding*: https://joakimabdinuriusuf.substack.com/p/generation-is-solved
+
